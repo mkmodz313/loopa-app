@@ -1,0 +1,10 @@
+[
+  { "id": "neon-rain", "title": "Neon Rain", "category": "City", "image": "thumbnails/city.jpg", "video": "videos/city.mp4", "trending": true, "featured": true },
+  { "id": "aurora-lake", "title": "Aurora Lake", "category": "Nature", "image": "thumbnails/aurora.jpg", "video": "videos/aurora.mp4", "trending": true, "featured": true },
+  { "id": "red-garage", "title": "Red Garage", "category": "Cars", "image": "thumbnails/car.jpg", "video": "", "trending": true, "featured": true },
+  { "id": "liquid-gold", "title": "Liquid Gold", "category": "Abstract", "image": "thumbnails/liquid.jpg", "video": "videos/liquid.mp4", "featured": true },
+  { "id": "golden-forest", "title": "Golden Forest", "category": "Nature", "image": "thumbnails/forest.jpg", "video": "", "trending": true },
+  { "id": "ringed-drift", "title": "Ringed Drift", "category": "Space", "image": "thumbnails/space.jpg", "video": "videos/space.mp4", "trending": true },
+  { "id": "turquoise-shore", "title": "Turquoise Shore", "category": "Nature", "image": "thumbnails/ocean.jpg", "video": "" },
+  { "id": "glass-orbs", "title": "Glass Orbs", "category": "Abstract", "image": "thumbnails/glass.jpg", "video": "", "featured": true }
+]
